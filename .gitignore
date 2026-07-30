@@ -1,0 +1,5 @@
+all_prices_raw.parquet
+all_prices_clean.parquet
+all_prices_features.parquet
+__pycache__/
+*.pyc
